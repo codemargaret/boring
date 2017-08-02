@@ -1,12 +1,12 @@
-h2.intro {
+h2 {
   color: #6E2C00;
 }
 
-p.intro {
+p{
   color: #424949;
 }
 
-img.intro {
+img {
   margin-left: 20%;
   border-radius: 50%;
   border: solid;
@@ -16,4 +16,7 @@ img.intro {
 
 body {
   background-color: beige;
+}
+.intro {
+  background-color: #AB8880;
 }
