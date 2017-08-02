@@ -1,0 +1,19 @@
+h2.intro {
+  color: #6E2C00;
+}
+
+p.intro {
+  color: #424949;
+}
+
+img.intro {
+  margin-left: 20%;
+  border-radius: 50%;
+  border: solid;
+  border-color: #6E2C00;
+  border-width: 40px;
+}
+
+body {
+  background-color: beige;
+}
